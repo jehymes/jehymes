@@ -20,16 +20,16 @@ Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na
 
 
 ### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+[![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://devdocs.io/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://devdocs.io/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://devdocs.io/javascript/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/docs/)
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff898d)](https://docs.oracle.com/en/java/)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://www.python.org/doc/)
+[![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)](https://devdocs.io/c/)
+[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)](https://v17.angular.io/docs)
+[![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)](https://reactnative.dev/docs/getting-started)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
