@@ -2,13 +2,13 @@
 
 # Jehymeson Gil Alves Oliveira
 <p align="justify">
-Olá, me chamo Jehymeson (Jeh), sou apaixonado por desenvolvimento, possuo 3 anos de experiências em desenvolvimento e analise, como foco principal em aplicações web que utilizam linguagens como Java EE, JavaScript, PHP e Python, assim como frameworks para suas aplicações, como, Struts, AngularJs, Angular 2+, Laravel, CakePHP, Django e SpringBoot.
+Olá, me chamo Jehymeson (Jeh), sou apaixonado por desenvolvimento, possuo cinco anos de experiência em desenvolvimento e análise, principalmente concentrando-me em aplicações web que usam C#, Java EE, JavaScript, PHP e Python, bem como frameworks para suas aplicações, como Struts, AngularJs, Angular 2+, Laravel, CakePHP, Django, SpringBoot e .NET.
 
-Já atuei em trabalho de gameficação utilizando Phaser 2.6, TypeScript, JHipster, Spring Framework, Angular 7, HTML5 e CSS3, utilizando indicadores existentes dentro do <strong>Banco do Brasil</strong> para o melhor rendimento dos funcionários.
+Possuo conhecimentos sobre Phaser 2.6, TypeScript, JHipster, Spring Framework, Angular 7, HTML5 e CSS3 adquiridos em projeto de gameficação utilizando indicadores do Banco do Brasil, visando a maximização dos rendimentos dos funcionários. Além disso, trabalhei na mesma empresa ajudando a desenvolver um portal web para pessoas jurídicas assinarem contratos digitais licitatórios usando AngularJs, JavaScript e Java.
 
-Possuo conhecimentos básicos em criação de aplicativos híbridos utilizando HTML, CSS3 e JavaScript juntamente com os frameworks Ionic e PhoneGap.
+Possuo conhecimentos básicos em desenvolvimento de aplicativos híbridos e nativos, bem como as tecnologias usadas para isso, como HTML5, CSS3, JavaScript, frameworks Ionic e PhoneGap, React Native e Expo Go.
 
-Atualmente trabalho como prestador de serviços para a empresa <strong>Superdigital</strong> na criação, execução e manutenção de testes regressivos utilizando .NET 6, bem como na execução de testes funcionais, mitigando os riscos e contribuindo para a qualidade do produto.
+Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na criação, redução de riscos, melhoria na qualidade do produto, execução e manutenção de testes regressivos com o uso de .NET 6, além da realização de testes funcionais.
 </p>
 
 ---
