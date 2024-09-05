@@ -29,7 +29,7 @@ Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![React Native](https://camo.githubusercontent.com/fad22fca8deb9181cb23acd0e57ef4018ce2beed9549b48a99ee59d5d566e45f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374)
+![React Native](https://img.shields.io/badge/React_Native-000?logo=react)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
