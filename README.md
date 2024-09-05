@@ -14,9 +14,14 @@ Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na
 ---
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jehymes_gil)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jehymes.gil@live.com)
+[![Perfil DIO](https://img.shields.io/badge/-Digital%20Inovation%20One-000000?style=for-the-badge)](https://web.dio.me/users/jehymes_gil)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=mail.ru&logoColor=E94D5F)](mailto:jehymes.gil@live.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/jehymeson)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-000000?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/jehymeson)
+[![ArtStation](https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation)](https://www.artstation.com/jehymeson_gil)
+[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance)](https://www.behance.net/jehymeson_gil)
+[![Itch.io](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itch.io
+)](https://jehymes-stark.itch.io/)
 
 
 ### Habilidades
@@ -27,11 +32,14 @@ Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff898d)](https://docs.oracle.com/en/java/)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://www.python.org/doc/)
 [![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)](https://devdocs.io/c/)
-[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=sharp&logoColor=99CC00)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)](https://v17.angular.io/docs)
 [![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)](https://reactnative.dev/docs/getting-started)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Blender 3D](https://img.shields.io/badge/Blender_3D-000000?style=for-the-badge&logo=blender)](https://docs.blender.org/)
+[![Godot Engine](https://img.shields.io/badge/Godot_Engine-000000?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
+[![Game Maker Studio](https://img.shields.io/badge/Game_Maker_Studio-000000?style=for-the-badge&logo=gamemaker)](https://manual.gamemaker.io/monthly/en/#t=Content.htm)
 
 ### GitHub Stats
 
