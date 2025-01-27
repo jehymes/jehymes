@@ -11,9 +11,21 @@ Possuo conhecimentos básicos em desenvolvimento de aplicativos híbridos e nati
 Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na criação, redução de riscos, melhoria na qualidade do produto, execução e manutenção de testes regressivos com o uso de .NET 6, além da realização de testes funcionais.
 </p>
 
+<hr>
+
+<p align="justify">
+Hello, my name is Jehymeson (Jeh), and I'm passionate about development. I have five years of experience in development and analysis, mainly focusing on web applications using C#, Java EE, JavaScript, PHP, and Python, as well as frameworks for these applications, such as Struts, AngularJs, Angular 2+, Laravel, CakePHP, Django, SpringBoot, and .NET.
+
+I have knowledge of Phaser 2.6, TypeScript, JHipster, Spring Framework, Angular 7, HTML5, and CSS3, acquired through a gamification project using indicators from Banco do Brasil, aiming to maximize employee performance. Additionally, I worked at the same company helping to develop a web portal for legal entities to sign digital bidding contracts using AngularJs, JavaScript, and Java.
+
+I have basic knowledge of hybrid and native app development, as well as the technologies used for this, such as HTML5, CSS3, JavaScript, Ionic, and PhoneGap frameworks, React Native, and Expo Go.
+
+Currently, I work as a service provider for Superdigital, helping in the creation, risk reduction, product quality improvement, execution, and maintenance of regression tests using .NET 6, as well as performing functional tests.
+</p>
+
 ---
 
-### Conecte-se comigo
+### Conecte-se comigo / Connect with me
 [![Perfil DIO](https://img.shields.io/badge/-Digital%20Inovation%20One-000000?style=for-the-badge)](https://web.dio.me/users/jehymes_gil)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=mail.ru&logoColor=E94D5F)](mailto:jehymes.gil@live.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/jehymeson)
@@ -24,7 +36,7 @@ Atualmente trabalho como prestador de serviços para a Superdigital, ajudando na
 )](https://jehymes-stark.itch.io/)
 
 
-### Habilidades
+### Habilidades / Skills
 [![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://devdocs.io/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://devdocs.io/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://devdocs.io/javascript/)
