@@ -59,10 +59,11 @@ Currently, I work as a service provider for Superdigital, helping in the creatio
     <img vspace="5" hspace="5" src="https://github-readme-stats.vercel.app/api?username=Jehymes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars"/>
     <img vspace="5" hspace="5" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jehymes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true"/>
 </div>
-
+<!--
 ### GitHub Streak
-
+<!--
 <div align="left">
     <img vspace="5" hspace="5" src="https://streak-stats.demolab.com?user=Jehymes&theme=blueberry-duo&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=495&fire=FF2A2AEA&ring=C9BD00DD&background=000000&border=30A3DC"/>
 </div>
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
